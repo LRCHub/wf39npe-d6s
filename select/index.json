@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ラヴ・ストーリー",
+  "base_artist": "テイラー・スウィフト",
+  "createdAt": "2025-12-23T16:39:35.977812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Story = ラヴ・ストーリー",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Love_Story_=_ラヴ・ストーリー_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Story = ラヴ・ストーリー",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_Love_Story_=_ラヴ・ストーリー_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Story_Taylor_Swift.txt"
+    }
+  ]
+}
